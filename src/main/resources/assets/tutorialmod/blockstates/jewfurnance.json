@@ -1,0 +1,7 @@
+{
+
+  "variants": {
+    "lit=true": {"model":  "tutorialmod:block/jewfurnance_on"},
+    "lit=false": {"model":  "tutorialmod:block/jewfurnance_off"}
+  }
+}
